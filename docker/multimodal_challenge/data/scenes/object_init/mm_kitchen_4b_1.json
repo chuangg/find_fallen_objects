@@ -1,0 +1,962 @@
+[
+  {
+    "kinematic": false,
+    "name": "skillet_open",
+    "position": {
+      "x": 1.439627,
+      "y": 0.9198034,
+      "z": -0.8242047
+    },
+    "rotation": {
+      "w": 0.3907312,
+      "x": 0,
+      "y": 0.9205049,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "trunck",
+    "position": {
+      "x": 1.381,
+      "y": 0.02262288,
+      "z": -2.993
+    },
+    "rotation": {
+      "w": 0,
+      "x": 0,
+      "y": -1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "chair_annabelle",
+    "position": {
+      "x": -1.196559,
+      "y": 0.0048742,
+      "z": -1.495131
+    },
+    "rotation": {
+      "w": 0.9913375,
+      "x": 0,
+      "y": 0.1313394,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "chair_annabelle",
+    "position": {
+      "x": -0.8109041,
+      "y": 0.003377438,
+      "z": -0.4049541
+    },
+    "rotation": {
+      "w": 0.6612333,
+      "x": 0,
+      "y": -0.7501802,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "chair_annabelle",
+    "position": {
+      "x": -1.359913,
+      "y": 0.003380209,
+      "z": 0.6090631
+    },
+    "rotation": {
+      "w": 0.1839257,
+      "x": 0,
+      "y": 0.9829402,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "24_in_wall_cabinet_white_wood",
+    "position": {
+      "x": 1.603525,
+      "y": 1.371485,
+      "z": -0.9013338
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "36_in_wall_cabinet_white_wood",
+    "position": {
+      "x": 1.713529,
+      "y": 1.344324,
+      "z": -1.669335
+    },
+    "rotation": {
+      "w": -0.7071061,
+      "x": -5.761595e-10,
+      "y": -0.7071075,
+      "z": 8.731067e-10
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "sm_table_white",
+    "position": {
+      "x": -1.527954,
+      "y": 0.01734585,
+      "z": 2.950604
+    },
+    "rotation": {
+      "w": 0,
+      "x": 0,
+      "y": -1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "fridge_large",
+    "position": {
+      "x": -2.957485,
+      "y": 0.01471603,
+      "z": 2.846684
+    },
+    "rotation": {
+      "w": -0.7071041,
+      "x": 1.718944e-10,
+      "y": -0.7071095,
+      "z": -2.328306e-10
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "appliance-ge-profile-microwave3",
+    "position": {
+      "x": 1.226,
+      "y": 0.9227766,
+      "z": 3.120001
+    },
+    "rotation": {
+      "w": 0,
+      "x": 0,
+      "y": -1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "dishwasher_4",
+    "position": {
+      "x": 1.499495,
+      "y": 0.006427288,
+      "z": -0.1143183
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": -0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_24_two_drawer_white_wood",
+    "position": {
+      "x": 2.987659,
+      "y": 0.001353741,
+      "z": 3.019688
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_24_white_wood",
+    "position": {
+      "x": 1.499536,
+      "y": 0.001314044,
+      "z": -0.8983175
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_36_white_wood",
+    "position": {
+      "x": 1.499669,
+      "y": 0.001279682,
+      "z": -1.667212
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_36_white_wood",
+    "position": {
+      "x": 1.491307,
+      "y": 0.001067221,
+      "z": 0.64175
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "spoon1",
+    "position": {
+      "x": -1.486138,
+      "y": 0.7346457,
+      "z": -1.247867
+    },
+    "rotation": {
+      "w": 0.005733484,
+      "x": 0,
+      "y": 0.9999835,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "servingfork",
+    "position": {
+      "x": -0.9392933,
+      "y": 0.7314162,
+      "z": -0.8653113
+    },
+    "rotation": {
+      "w": -0.07785159,
+      "x": 0.05074831,
+      "y": -0.9956621,
+      "z": -0.004562148
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "glass1",
+    "position": {
+      "x": -1.007112,
+      "y": 0.7402192,
+      "z": -0.7163242
+    },
+    "rotation": {
+      "w": -0.7030553,
+      "x": 0.1463299,
+      "y": -0.6959156,
+      "z": 0.001505213
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "spoon1",
+    "position": {
+      "x": -0.8931354,
+      "y": 0.7324213,
+      "z": -0.7415813
+    },
+    "rotation": {
+      "w": 0.7068415,
+      "x": 0,
+      "y": 0.707372,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "glass1",
+    "position": {
+      "x": -1.477273,
+      "y": 0.7553149,
+      "z": -1.141381
+    },
+    "rotation": {
+      "w": -4.289632e-09,
+      "x": 6.548362e-11,
+      "y": -1,
+      "z": -2.328306e-10
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "spoon1",
+    "position": {
+      "x": -1.805412,
+      "y": 0.9164369,
+      "z": 2.956056
+    },
+    "rotation": {
+      "w": 0.261066,
+      "x": -0.003311125,
+      "y": 0.9650986,
+      "z": -0.02045168
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "glass1",
+    "position": {
+      "x": -1.937974,
+      "y": 0.9230921,
+      "z": 2.838485
+    },
+    "rotation": {
+      "w": 0.9911306,
+      "x": 0.1312047,
+      "y": 0.005693572,
+      "z": 0.02032597
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_36_white_wood",
+    "position": {
+      "x": 2.989537,
+      "y": 0.001329005,
+      "z": 2.258683
+    },
+    "rotation": {
+      "w": 0.707109,
+      "x": 1.618648e-07,
+      "y": 0.7071047,
+      "z": -3.72529e-09
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_36_white_wood",
+    "position": {
+      "x": 1.201001,
+      "y": 0.001307487,
+      "z": 3.005999
+    },
+    "rotation": {
+      "w": 1,
+      "x": 1.179814e-06,
+      "y": 1.030887e-06,
+      "z": 1.313144e-06
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_24_white_wood",
+    "position": {
+      "x": -1.23389,
+      "y": 0.001282483,
+      "z": -3.018142
+    },
+    "rotation": {
+      "w": 0,
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "elephant_bowl",
+    "position": {
+      "x": 2.971542,
+      "y": 0.01173326,
+      "z": 1.514683
+    },
+    "rotation": {
+      "w": 2.905576e-06,
+      "x": 5.122265e-09,
+      "y": 1,
+      "z": 9.313209e-09
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_36_white_wood",
+    "position": {
+      "x": 0.1362684,
+      "y": 0.001311421,
+      "z": -3.018035
+    },
+    "rotation": {
+      "w": 0,
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_36_white_wood",
+    "position": {
+      "x": -2.96349,
+      "y": 0.002962679,
+      "z": 1.909684
+    },
+    "rotation": {
+      "w": 0.7071089,
+      "x": -5.265518e-09,
+      "y": -0.7071048,
+      "z": 1.862644e-09
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_24_white_wood",
+    "position": {
+      "x": -0.6246864,
+      "y": 0.0013026,
+      "z": -3.018
+    },
+    "rotation": {
+      "w": 0,
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "24_in_wall_cabinet_white_wood",
+    "position": {
+      "x": -1.233,
+      "y": 1.347056,
+      "z": -3.126
+    },
+    "rotation": {
+      "w": 0,
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "36_in_wall_cabinet_white_wood",
+    "position": {
+      "x": 3.212542,
+      "y": 1.347928,
+      "z": 2.258684
+    },
+    "rotation": {
+      "w": 0.7071083,
+      "x": 1.301929e-09,
+      "y": 0.7071054,
+      "z": -2.61932e-10
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "toaster_002",
+    "position": {
+      "x": 1.36712,
+      "y": 0.9192007,
+      "z": 0.5288328
+    },
+    "rotation": {
+      "w": 0.7803485,
+      "x": 0,
+      "y": 0.6253449,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "24_in_wall_cabinet_white_wood",
+    "position": {
+      "x": 3.101533,
+      "y": 1.347165,
+      "z": 3.020684
+    },
+    "rotation": {
+      "w": 0.7071108,
+      "x": 3.476535e-09,
+      "y": 0.7071028,
+      "z": 2.328301e-10
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "36_in_wall_cabinet_white_wood",
+    "position": {
+      "x": -3.195495,
+      "y": 1.346021,
+      "z": 1.915686
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": -0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "green_bag",
+    "position": {
+      "x": -0.5399491,
+      "y": 0.00119672,
+      "z": 0.02466796
+    },
+    "rotation": {
+      "w": 0.6585516,
+      "x": 0,
+      "y": 0.7525356,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "duffle_bag_sm",
+    "position": {
+      "x": -1.759895,
+      "y": 0.4290395,
+      "z": -1.907355
+    },
+    "rotation": {
+      "w": -0.880527,
+      "x": -2.688047e-05,
+      "y": -0.4739949,
+      "z": -0.0009752161
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "glass_table",
+    "position": {
+      "x": -1.265008,
+      "y": 0.003812134,
+      "z": -0.438408
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": -0.5055552,
+      "y": 0.000427857,
+      "z": -1.156241
+    },
+    "rotation": {
+      "w": 0.1409221,
+      "x": 2.592463e-05,
+      "y": -0.9900207,
+      "z": -6.277725e-06
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "skillet_closed",
+    "position": {
+      "x": -2.897419,
+      "y": 0.9250376,
+      "z": 1.762873
+    },
+    "rotation": {
+      "w": -0.9954385,
+      "x": 1.629812e-09,
+      "y": -0.09540573,
+      "z": -3.492454e-10
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "pepper",
+    "position": {
+      "x": -1.030455,
+      "y": 0.735036,
+      "z": -0.8244474
+    },
+    "rotation": {
+      "w": 1,
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "vase_01",
+    "position": {
+      "x": 1.27296,
+      "y": 0.9198807,
+      "z": -1.598495
+    },
+    "rotation": {
+      "w": 1,
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "vase_05",
+    "position": {
+      "x": -1.181037,
+      "y": 0.73559,
+      "z": -0.2347211
+    },
+    "rotation": {
+      "w": 1,
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "kettle",
+    "position": {
+      "x": -1.140107,
+      "y": 0.732,
+      "z": 0.06161202
+    },
+    "rotation": {
+      "w": 0.6341504,
+      "x": 0,
+      "y": -0.7732098,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": -1.524883,
+      "y": 0.2133243,
+      "z": -1.959357
+    },
+    "rotation": {
+      "w": 0.3549173,
+      "x": 4.36947e-06,
+      "y": -0.9348977,
+      "z": -5.082809e-06
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": 2.02701,
+      "y": 0.2131043,
+      "z": 2.974995
+    },
+    "rotation": {
+      "w": 0.6545825,
+      "x": 0,
+      "y": 0.7559906,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": 2.018,
+      "y": 0.0006706417,
+      "z": 2.984001
+    },
+    "rotation": {
+      "w": 0.4377515,
+      "x": 0,
+      "y": -0.8990961,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": -1.500151,
+      "y": 0.0006574765,
+      "z": -1.969939
+    },
+    "rotation": {
+      "w": 0.5553846,
+      "x": -8.824031e-05,
+      "y": -0.8315936,
+      "z": -1.634052e-05
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": -0.5173052,
+      "y": 0.2130769,
+      "z": -1.203745
+    },
+    "rotation": {
+      "w": 0.411099,
+      "x": 9.28895e-05,
+      "y": -0.9115908,
+      "z": 3.862751e-05
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  }
+]

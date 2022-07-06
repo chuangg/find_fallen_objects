@@ -1,0 +1,842 @@
+[
+  {
+    "kinematic": false,
+    "name": "skillet_open",
+    "position": {
+      "x": 1.464265,
+      "y": 0.921,
+      "z": -0.7476711
+    },
+    "rotation": {
+      "w": 0.9230828,
+      "x": 0,
+      "y": 0.3846014,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "chair_billiani_doll",
+    "position": {
+      "x": -0.01,
+      "y": 0.003459156,
+      "z": -2.17
+    },
+    "rotation": {
+      "w": 0.1898025,
+      "x": -2.16678e-07,
+      "y": -0.9818223,
+      "z": -3.039836e-06
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "linen_dining_chair",
+    "position": {
+      "x": 0.471,
+      "y": 0.00346005,
+      "z": -2.74
+    },
+    "rotation": {
+      "w": 0.7071059,
+      "x": 3.277819e-07,
+      "y": -0.7071077,
+      "z": -3.129244e-07
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "linen_dining_chair",
+    "position": {
+      "x": -0.55,
+      "y": 0.003000647,
+      "z": -2.78
+    },
+    "rotation": {
+      "w": 0.7887374,
+      "x": -0.0008108646,
+      "y": 0.6147296,
+      "z": 0.0003527403
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "linen_dining_chair",
+    "position": {
+      "x": 1.503,
+      "y": 0.00402382,
+      "z": -1.849
+    },
+    "rotation": {
+      "w": 0.7071074,
+      "x": 0,
+      "y": -0.7071062,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "24_in_wall_cabinet_wood_beach_honey",
+    "position": {
+      "x": -3.118866,
+      "y": 1.344126,
+      "z": 1.867
+    },
+    "rotation": {
+      "w": 0.7071028,
+      "x": 1.431545e-09,
+      "y": -0.7071107,
+      "z": 9.080399e-09
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "36_in_wall_cabinet_wood_beach_honey",
+    "position": {
+      "x": -1.70615,
+      "y": 1.342468,
+      "z": 0.095
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": -0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "small_table_green_marble",
+    "position": {
+      "x": -0.01,
+      "y": 0.005120456,
+      "z": -0.29
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "fridge_large",
+    "position": {
+      "x": 2.689,
+      "y": 0.01397228,
+      "z": 2.964
+    },
+    "rotation": {
+      "w": 0,
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "dishwasher_4",
+    "position": {
+      "x": -1.246,
+      "y": 0.00661996,
+      "z": 3.02
+    },
+    "rotation": {
+      "w": 8.842349e-05,
+      "x": -0.0004029776,
+      "y": 0.9999999,
+      "z": -0.0004150716
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "dining_room_table",
+    "position": {
+      "x": -0.02,
+      "y": -0.002555668,
+      "z": -2.75
+    },
+    "rotation": {
+      "w": 1,
+      "x": -4.303874e-07,
+      "y": 1.750177e-07,
+      "z": 4.628993e-06
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "coffee_001",
+    "position": {
+      "x": -1.724491,
+      "y": 0.9688652,
+      "z": -0.08265559
+    },
+    "rotation": {
+      "w": 0.7053973,
+      "x": 0.002507526,
+      "y": 0.7087993,
+      "z": 0.003464035
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_24_two_drawer_wood_beach_honey",
+    "position": {
+      "x": -1.493435,
+      "y": 0.003219783,
+      "z": 0.8348883
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": -0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_24_wood_beach_honey",
+    "position": {
+      "x": -3.00615,
+      "y": 0.00293836,
+      "z": 1.859633
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": -0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_36_wood_beach_honey",
+    "position": {
+      "x": -1.493393,
+      "y": 0.0009802282,
+      "z": 0.09443022
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": -0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_36_wood_beach_honey",
+    "position": {
+      "x": -3.008,
+      "y": 0.00128746,
+      "z": 2.627
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": -0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_36_wood_beach_honey",
+    "position": {
+      "x": 2.873,
+      "y": 0.00443238,
+      "z": 1.571
+    },
+    "rotation": {
+      "w": 0,
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_36_wood_beach_honey",
+    "position": {
+      "x": 1.754,
+      "y": 0.007422715,
+      "z": 3.003
+    },
+    "rotation": {
+      "w": 1,
+      "x": 0,
+      "y": 1.460314e-06,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_24_two_drawer_wood_beach_honey",
+    "position": {
+      "x": -1.500112,
+      "y": -0.001110792,
+      "z": -1.570148
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": -0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_24_wood_beach_honey",
+    "position": {
+      "x": 1.508,
+      "y": -0.007218421,
+      "z": -0.8496711
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "white_shopping_bag",
+    "position": {
+      "x": -1.416,
+      "y": 0.925,
+      "z": -1.618
+    },
+    "rotation": {
+      "w": -0.6417461,
+      "x": -0.6390926,
+      "y": 0.2991471,
+      "z": -0.3003891
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_36_wood_beach_honey",
+    "position": {
+      "x": 1.508,
+      "y": -0.005217969,
+      "z": 0.5255777
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_36_wood_beach_honey",
+    "position": {
+      "x": -1.496584,
+      "y": -0.0007401109,
+      "z": -0.8195521
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": -0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_24_two_drawer_wood_beach_honey",
+    "position": {
+      "x": 0.986,
+      "y": 0.001213789,
+      "z": 3.004
+    },
+    "rotation": {
+      "w": 1,
+      "x": -0.0001530681,
+      "y": -9.772965e-05,
+      "z": -9.607684e-05
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "cabinet_24_wood_beach_honey",
+    "position": {
+      "x": 1.508,
+      "y": -0.0003073514,
+      "z": -0.2386712
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "24_in_wall_cabinet_wood_beach_honey",
+    "position": {
+      "x": 0.9879654,
+      "y": 1.346113,
+      "z": 3.126866
+    },
+    "rotation": {
+      "w": 1,
+      "x": -1.111204e-05,
+      "y": 0.0001322197,
+      "z": 2.097548e-05
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "36_in_wall_cabinet_wood_beach_honey",
+    "position": {
+      "x": 2.873,
+      "y": 1.347801,
+      "z": 1.36
+    },
+    "rotation": {
+      "w": 1.458541e-06,
+      "x": 3.891038e-08,
+      "y": 1,
+      "z": -1.04773e-09
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "juicer",
+    "position": {
+      "x": -1.48,
+      "y": 0.926,
+      "z": 0.981
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "toaster_002",
+    "position": {
+      "x": 1.39904,
+      "y": 0.9215047,
+      "z": 0.4062935
+    },
+    "rotation": {
+      "w": 0.294097,
+      "x": 0.003143875,
+      "y": -0.9557666,
+      "z": 0.002697751
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "24_in_wall_cabinet_wood_beach_honey",
+    "position": {
+      "x": 1.611,
+      "y": 1.345278,
+      "z": -0.24
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "36_in_wall_cabinet_wood_beach_honey",
+    "position": {
+      "x": 1.722,
+      "y": 1.345194,
+      "z": 0.5227696
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": 0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "bakerparisfloorlamp03",
+    "position": {
+      "x": 1.53,
+      "y": 0.01395971,
+      "z": -1.39
+    },
+    "rotation": {
+      "w": 1,
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "kettle",
+    "position": {
+      "x": 0.794584,
+      "y": 0.9201862,
+      "z": 2.840268
+    },
+    "rotation": {
+      "w": 0.914023,
+      "x": 0.01068802,
+      "y": 0.4055184,
+      "z": 0.001587962
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "hiker_backpack",
+    "position": {
+      "x": 2.126,
+      "y": 0.01004486,
+      "z": 1.603
+    },
+    "rotation": {
+      "w": 0.8415688,
+      "x": -0.07408116,
+      "y": -0.5349832,
+      "z": -0.0081798
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": 0.18,
+      "y": 0.7334316,
+      "z": -2.47
+    },
+    "rotation": {
+      "w": 0.8236213,
+      "x": -4.199304e-05,
+      "y": -0.5671402,
+      "z": 2.601798e-05
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": 0.1289904,
+      "y": 0.9457112,
+      "z": -2.470026
+    },
+    "rotation": {
+      "w": 0.7075865,
+      "x": -2.407195e-05,
+      "y": -0.7066268,
+      "z": 5.39365e-05
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": -1.331,
+      "y": 5.77867e-05,
+      "z": -2.156
+    },
+    "rotation": {
+      "w": 0.9490903,
+      "x": 1.692792e-09,
+      "y": 0.3150041,
+      "z": 5.293129e-09
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": -2.394997,
+      "y": 0.2122728,
+      "z": 1.569001
+    },
+    "rotation": {
+      "w": 0.7967114,
+      "x": 4.863799e-05,
+      "y": 0.60436,
+      "z": 1.63606e-05
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": -2.36,
+      "y": 7.842481e-05,
+      "z": 1.489
+    },
+    "rotation": {
+      "w": 0.8733817,
+      "x": -2.216367e-05,
+      "y": -0.4870365,
+      "z": 1.085347e-05
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "round_bowl_small_walnut",
+    "position": {
+      "x": 0.01,
+      "y": 0.661097,
+      "z": -2.948318
+    },
+    "rotation": {
+      "w": 0.999966,
+      "x": -0.005441606,
+      "y": -0.004477449,
+      "z": 0.004288121
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "box_18inx18inx12in_cardboard",
+    "position": {
+      "x": -0.08899994,
+      "y": 0.902,
+      "z": -0.2313884
+    },
+    "rotation": {
+      "w": 0.5858634,
+      "x": 0,
+      "y": 0.8104099,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "basket_18inx18inx12iin_wicker",
+    "position": {
+      "x": 1.561,
+      "y": 0.004698016,
+      "z": -3.066
+    },
+    "rotation": {
+      "w": 1,
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  }
+]

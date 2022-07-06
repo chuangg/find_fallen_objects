@@ -1,0 +1,13 @@
+Mono path[0] = '/mnt/cephfs/home/chenpeihao/Projects/find-fallen/docker/TDW/TDW_Data/Managed'
+Mono config path = '/mnt/cephfs/home/chenpeihao/Projects/find-fallen/docker/TDW/TDW_Data/MonoBleedingEdge/etc'
+Preloaded 'libaudiopluginresonanceaudio.so'
+Unable to preload the following plugins:
+	libflexUtils.so
+Can't get home directory!
+
+Unable to load player prefs
+Can't get home directory!
+
+Unable to synchronize player prefs
+Desktop is 0 x 0 @ 0 Hz
+MoTTY X11 proxy: Unsupported authorisation protocol

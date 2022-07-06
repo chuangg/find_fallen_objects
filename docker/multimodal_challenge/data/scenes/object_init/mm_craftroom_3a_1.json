@@ -1,0 +1,742 @@
+[
+  {
+    "kinematic": false,
+    "name": "tan_purse",
+    "position": {
+      "x": -0.3400206,
+      "y": 0.2916721,
+      "z": -1.682665
+    },
+    "rotation": {
+      "w": -0.4999897,
+      "x": 0,
+      "y": 0.8660314,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "arturoalvarez_v_floor_lamp",
+    "position": {
+      "x": -0.48,
+      "y": -0.0004897118,
+      "z": -3.04
+    },
+    "rotation": {
+      "w": -0.9184351,
+      "x": 0,
+      "y": 0.3955717,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "coffee_001",
+    "position": {
+      "x": 1.01,
+      "y": 1.535036,
+      "z": 3.24
+    },
+    "rotation": {
+      "w": -4.371139e-08,
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "5ft_wood_shelving",
+    "position": {
+      "x": 1.407817,
+      "y": 0.002705753,
+      "z": -0.0004249811
+    },
+    "rotation": {
+      "w": 0.0006645481,
+      "x": 0,
+      "y": 0.9999998,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "5ft_wood_shelving",
+    "position": {
+      "x": -1.12653,
+      "y": 0.002880514,
+      "z": 3.195056
+    },
+    "rotation": {
+      "w": 0.7070721,
+      "x": 0,
+      "y": 0.7071415,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "5ft_wood_shelving",
+    "position": {
+      "x": 1.162802,
+      "y": 0.00326544,
+      "z": 3.205047
+    },
+    "rotation": {
+      "w": 0.7071479,
+      "x": 0,
+      "y": 0.7070656,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "hp_printer",
+    "position": {
+      "x": 1.31,
+      "y": 0.477308,
+      "z": 1.292
+    },
+    "rotation": {
+      "w": 0.9999947,
+      "x": 0,
+      "y": 0.003267698,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "desk_lamp",
+    "position": {
+      "x": -1.341555,
+      "y": 0.897207,
+      "z": 0.9173769
+    },
+    "rotation": {
+      "w": 0.5299223,
+      "x": 0,
+      "y": 0.8480462,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "macbook_air",
+    "position": {
+      "x": -0.922779,
+      "y": 0.7376684,
+      "z": 0.8342802
+    },
+    "rotation": {
+      "w": 0.7516677,
+      "x": 0,
+      "y": 0.659542,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "chair_annabelle",
+    "position": {
+      "x": -1.185439,
+      "y": 0.003952235,
+      "z": -0.2426475
+    },
+    "rotation": {
+      "w": 0.9534915,
+      "x": 0,
+      "y": 0.3014199,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "table_square",
+    "position": {
+      "x": 1.301682,
+      "y": 0.002547085,
+      "z": 1.250658
+    },
+    "rotation": {
+      "w": -0.7072875,
+      "x": 0,
+      "y": 0.706926,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "pencil_all",
+    "position": {
+      "x": -1.150012,
+      "y": 0.7374308,
+      "z": 1.102773
+    },
+    "rotation": {
+      "w": -0.9999875,
+      "x": 0,
+      "y": 0.00500239,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "jug01",
+    "position": {
+      "x": 1.369515,
+      "y": 1.135586,
+      "z": -0.0497731
+    },
+    "rotation": {
+      "w": 0.002621485,
+      "x": 0,
+      "y": 0.9999966,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "jug02",
+    "position": {
+      "x": -1.02,
+      "y": 1.133595,
+      "z": 3.2
+    },
+    "rotation": {
+      "w": 0.7079189,
+      "x": 0,
+      "y": 0.7062938,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "jug04",
+    "position": {
+      "x": 0.9418702,
+      "y": 1.133053,
+      "z": 3.234517
+    },
+    "rotation": {
+      "w": 0.7419987,
+      "x": 0,
+      "y": 0.6704013,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "marble_table_white",
+    "position": {
+      "x": 0.02065334,
+      "y": -0.001637429,
+      "z": -1.750052
+    },
+    "rotation": {
+      "w": 1,
+      "x": 0,
+      "y": -3.188848e-06,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "f10_apple_iphone_4",
+    "position": {
+      "x": -1.046455,
+      "y": 0.7426082,
+      "z": 0.6072475
+    },
+    "rotation": {
+      "w": -0.9999976,
+      "x": 0,
+      "y": 0.002212912,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "notes_02",
+    "position": {
+      "x": -1.315267,
+      "y": 0.7390142,
+      "z": 0.8488226
+    },
+    "rotation": {
+      "w": -0.9999993,
+      "x": 0,
+      "y": 0.001146706,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "bookend05",
+    "position": {
+      "x": 1.411197,
+      "y": 0.7373261,
+      "z": -0.2478285
+    },
+    "rotation": {
+      "w": -0.001249595,
+      "x": 0,
+      "y": 0.9999992,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "bookend05",
+    "position": {
+      "x": -1.289644,
+      "y": 0.7362202,
+      "z": 3.195446
+    },
+    "rotation": {
+      "w": -0.7075238,
+      "x": 0,
+      "y": 0.7066896,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "small_purse",
+    "position": {
+      "x": -0.9321808,
+      "y": 0.7432182,
+      "z": 1.189271
+    },
+    "rotation": {
+      "w": -0.5474913,
+      "x": 0,
+      "y": 0.8368114,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "box_18inx18inx12in_cardboard",
+    "position": {
+      "x": -1.17,
+      "y": 0.32,
+      "z": 2.19
+    },
+    "rotation": {
+      "w": 0,
+      "x": 0,
+      "y": 0,
+      "z": 1
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": -1.18,
+      "y": 0.3209,
+      "z": 2.19
+    },
+    "rotation": {
+      "w": 0.9867325,
+      "x": 0,
+      "y": 0.1623545,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "vitra_meda_chair",
+    "position": {
+      "x": -0.3815053,
+      "y": 0.0196718,
+      "z": 0.9125013
+    },
+    "rotation": {
+      "w": -0.5924186,
+      "x": 0,
+      "y": 0.8056303,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "bookend05",
+    "position": {
+      "x": 1.415792,
+      "y": 0.7379062,
+      "z": 0.1899793
+    },
+    "rotation": {
+      "w": 0.9999996,
+      "x": 0,
+      "y": 0.0008655415,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "bookend05",
+    "position": {
+      "x": 0.9702325,
+      "y": 0.7359436,
+      "z": 3.21067
+    },
+    "rotation": {
+      "w": -0.7070777,
+      "x": 0,
+      "y": 0.707136,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "bookend05",
+    "position": {
+      "x": 1.358042,
+      "y": 0.7360516,
+      "z": 3.293213
+    },
+    "rotation": {
+      "w": 0.7075397,
+      "x": 0,
+      "y": 0.7066736,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "bookend05",
+    "position": {
+      "x": -0.9364944,
+      "y": 0.7364809,
+      "z": 3.215168
+    },
+    "rotation": {
+      "w": 0.7069846,
+      "x": 0,
+      "y": 0.7072289,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "candle",
+    "position": {
+      "x": 0.2800025,
+      "y": 0.2940704,
+      "z": -1.779592
+    },
+    "rotation": {
+      "w": 0.7071078,
+      "x": 0,
+      "y": -0.7071058,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "jug03",
+    "position": {
+      "x": 1.39,
+      "y": 1.523694,
+      "z": -0.19
+    },
+    "rotation": {
+      "w": 0.004594266,
+      "x": 0,
+      "y": 0.9999894,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "jug04",
+    "position": {
+      "x": 1.425736,
+      "y": 0.3435747,
+      "z": 0.06415081
+    },
+    "rotation": {
+      "w": -0.005187651,
+      "x": 0,
+      "y": 0.9999865,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "vase_02",
+    "position": {
+      "x": 1.159958,
+      "y": 0.3407633,
+      "z": 3.149999
+    },
+    "rotation": {
+      "w": 0.7069296,
+      "x": 0,
+      "y": 0.7072839,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "vase_01",
+    "position": {
+      "x": 1.372098,
+      "y": 1.521622,
+      "z": 3.22434
+    },
+    "rotation": {
+      "w": 0.7077568,
+      "x": 0,
+      "y": 0.7064562,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "vase_03",
+    "position": {
+      "x": -1.237283,
+      "y": 1.5204,
+      "z": 3.181566
+    },
+    "rotation": {
+      "w": 0.7068874,
+      "x": 0,
+      "y": 0.7073261,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "glass_table",
+    "position": {
+      "x": -1.090952,
+      "y": 0.005345643,
+      "z": 0.8483176
+    },
+    "rotation": {
+      "w": 0.7069528,
+      "x": 0,
+      "y": 0.7072607,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "white_lounger_chair",
+    "position": {
+      "x": 0.8699538,
+      "y": 0.02748993,
+      "z": -2.960009
+    },
+    "rotation": {
+      "w": 0.9821708,
+      "x": 0,
+      "y": -0.1879907,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "chair_eames_plastic_armchair",
+    "position": {
+      "x": -1.26,
+      "y": 0.008870363,
+      "z": -3.01
+    },
+    "rotation": {
+      "w": -0.9367789,
+      "x": 0,
+      "y": -0.3499217,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "mm_craftroom_1a": {
+    "floor": "tile",
+    "wall": "smoothPlaster"
+  },
+  "mm_craftroom_1b": {
+    "floor": "wood",
+    "wall": "smoothPlaster"
+  },
+  "mm_craftroom_2a": {
+    "floor": "concrete",
+    "wall": "roughPlaster"
+  },
+  "mm_craftroom_2b": {
+    "floor": "tile",
+    "wall": "roughPlaster"
+  },
+  "mm_craftroom_3a": {
+    "floor": "tile",
+    "wall": "roughPlaster"
+  },
+  "mm_craftroom_3b": {
+    "floor": "wood",
+    "wall": "smoothPlaster"
+  },
+  "mm_craftroom_4a": {
+    "floor": "concrete",
+    "wall": "smoothPlaster"
+  },
+  "mm_craftroom_4b": {
+    "floor": "wood",
+    "wall": "roughPlaster"
+  },
+  "mm_kitchen_1a": {
+    "floor": "tile",
+    "wall": "roughPlaster"
+  },
+  "mm_kitchen_1b": {
+    "floor": "wood",
+    "wall": "smoothPlaster"
+  },
+  "mm_kitchen_2a": {
+    "floor": "concrete",
+    "wall": "roughPlaster"
+  },
+  "mm_kitchen_2b": {
+    "floor": "tile",
+    "wall": "roughPlaster"
+  },
+  "mm_kitchen_3a": {
+    "floor": "wood",
+    "wall": "smoothPlaster"
+  },
+  "mm_kitchen_3b": {
+    "floor": "concrete",
+    "wall": "roughPlaster"
+  },
+  "mm_kitchen_4a": {
+    "floor": "tile",
+    "wall": "roughPlaster"
+  },
+  "mm_kitchen_4b": {
+    "floor": "wood",
+    "wall": "roughPlaster"
+  }
+}

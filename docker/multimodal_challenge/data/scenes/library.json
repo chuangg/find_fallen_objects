@@ -1,0 +1,181 @@
+{
+    "description": "Scenes for the Multi-Modal Challenge",
+    "records": {
+        "mm_craftroom_1a": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_craftroom_1a",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_craftroom_1a",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_craftroom_1a",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_craftroom_1a"
+            }
+        },
+        "mm_craftroom_1b": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_craftroom_1b",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_craftroom_1b",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_craftroom_1b",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_craftroom_1b"
+            }
+        },
+        "mm_craftroom_2a": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_craftroom_2a",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_craftroom_2a",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_craftroom_2a",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_craftroom_2a"
+            }
+        },
+        "mm_craftroom_2b": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_craftroom_2b",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_craftroom_2b",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_craftroom_2b",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_craftroom_2b"
+            }
+        },
+        "mm_craftroom_3a": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_craftroom_3a",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_craftroom_3a",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_craftroom_3a",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_craftroom_3a"
+            }
+        },
+        "mm_craftroom_3b": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_craftroom_3b",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_craftroom_3b",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_craftroom_3b",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_craftroom_3b"
+            }
+        },
+        "mm_craftroom_4a": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_craftroom_4a",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_craftroom_4a",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_craftroom_4a",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_craftroom_4a"
+            }
+        },
+        "mm_craftroom_4b": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_craftroom_4b",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_craftroom_4b",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_craftroom_4b",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_craftroom_4b"
+            }
+        },
+        "mm_kitchen_1a": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_kitchen_1a",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_kitchen_1a",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_kitchen_1a",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_kitchen_1a"
+            }
+        },
+        "mm_kitchen_1b": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_kitchen_1b",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_kitchen_1b",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_kitchen_1b",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_kitchen_1b"
+            }
+        },
+        "mm_kitchen_2a": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_kitchen_2a",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_kitchen_2a",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_kitchen_2a",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_kitchen_2a"
+            }
+        },
+        "mm_kitchen_2b": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_kitchen_2b",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_kitchen_2b",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_kitchen_2b",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_kitchen_2b"
+            }
+        },
+        "mm_kitchen_3a": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_kitchen_3a",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_kitchen_3a",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_kitchen_3a",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_kitchen_3a"
+            }
+        },
+        "mm_kitchen_3b": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_kitchen_3b",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_kitchen_3b",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_kitchen_3b",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_kitchen_3b"
+            }
+        },
+        "mm_kitchen_4a": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_kitchen_4a",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_kitchen_4a",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_kitchen_4a",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_kitchen_4a"
+            }
+        },
+        "mm_kitchen_4b": {
+            "description": "An single-room interior space lit by sunlight from outside.",
+            "hdri": true,
+            "location": "interior",
+            "name": "mm_kitchen_4b",
+            "urls": {
+                "Darwin": "ROOT/scenes/osx/2020.2/mm_kitchen_4b",
+                "Linux": "ROOT/scenes/linux/2020.2/mm_kitchen_4b",
+                "Windows": "ROOT/scenes/windows/2020.2/mm_kitchen_4b"
+            }
+        }
+    }
+}

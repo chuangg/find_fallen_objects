@@ -1,0 +1,422 @@
+[
+  {
+    "kinematic": false,
+    "name": "chair_annabelle",
+    "position": {
+      "x": 1.26,
+      "y": 0.02664569,
+      "z": 1.679794
+    },
+    "rotation": {
+      "w": -0.9930422,
+      "x": 0,
+      "y": 0.1177587,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "bakerparisfloorlamp03",
+    "position": {
+      "x": 1.41,
+      "y": 0.003547728,
+      "z": 3.239999
+    },
+    "rotation": {
+      "w": 0.9681545,
+      "x": 0,
+      "y": 0.2503537,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "desk_lamp",
+    "position": {
+      "x": -1.0269,
+      "y": 0.9006292,
+      "z": 0.8820689
+    },
+    "rotation": {
+      "w": -0.2532045,
+      "x": 0,
+      "y": 0.9674128,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "macbook_air",
+    "position": {
+      "x": 0.844857,
+      "y": 0.7342311,
+      "z": 2.388897
+    },
+    "rotation": {
+      "w": -0.6600809,
+      "x": 0,
+      "y": 0.7511945,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "sm_table_white",
+    "position": {
+      "x": -1.169214,
+      "y": 0.003853321,
+      "z": 1.209893
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": -0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "sm_table_white",
+    "position": {
+      "x": -1.169214,
+      "y": 0.004606426,
+      "z": 0.06160153
+    },
+    "rotation": {
+      "w": 0.7071068,
+      "x": 0,
+      "y": -0.7071068,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "pencil_all",
+    "position": {
+      "x": 1.08001,
+      "y": 0.7341152,
+      "z": 2.120015
+    },
+    "rotation": {
+      "w": 2.427498e-05,
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "printer_hp_laserjet1321",
+    "position": {
+      "x": -1.105,
+      "y": 1.206871,
+      "z": 3.194
+    },
+    "rotation": {
+      "w": -1.831851e-06,
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "monster_beats_studio",
+    "position": {
+      "x": -1.054359,
+      "y": 0.9675857,
+      "z": 0.6484072
+    },
+    "rotation": {
+      "w": 0.3064208,
+      "x": 0.3064208,
+      "y": -0.6372647,
+      "z": 0.6372647
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "f10_apple_iphone_4",
+    "position": {
+      "x": 0.9748643,
+      "y": 0.7394997,
+      "z": 2.615899
+    },
+    "rotation": {
+      "w": 5.097787e-05,
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "notes_02",
+    "position": {
+      "x": 1.2421,
+      "y": 0.7337765,
+      "z": 2.373295
+    },
+    "rotation": {
+      "w": -0.0006890733,
+      "x": 0,
+      "y": 0.9999998,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "small_purse",
+    "position": {
+      "x": 0.8628681,
+      "y": 0.7423496,
+      "z": 2.02997
+    },
+    "rotation": {
+      "w": 0.8762086,
+      "x": 0,
+      "y": 0.4819321,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "shoebox_fused",
+    "position": {
+      "x": -0.6154789,
+      "y": 0.002665773,
+      "z": -0.4397048
+    },
+    "rotation": {
+      "w": 0.9155804,
+      "x": 0,
+      "y": 0.402135,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "brown_leather_dining_chair",
+    "position": {
+      "x": -0.5375433,
+      "y": 0.006101489,
+      "z": 1.190215
+    },
+    "rotation": {
+      "w": -0.6087624,
+      "x": 0,
+      "y": 0.7933526,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "brown_leather_dining_chair",
+    "position": {
+      "x": -0.4835949,
+      "y": 0.006030858,
+      "z": 0.150239
+    },
+    "rotation": {
+      "w": -0.7933532,
+      "x": 0,
+      "y": 0.6087616,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "brown_leather_dining_chair",
+    "position": {
+      "x": -1.222441,
+      "y": 0.006038129,
+      "z": 1.847013
+    },
+    "rotation": {
+      "w": 0.1381677,
+      "x": 0,
+      "y": 0.9904089,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "lint_roller01",
+    "position": {
+      "x": -1.14648,
+      "y": 0.9350568,
+      "z": 0.2552951
+    },
+    "rotation": {
+      "w": -0.9603571,
+      "x": 0,
+      "y": 0.2787727,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "atmosphere_nodo",
+    "position": {
+      "x": -1.368378,
+      "y": 0.9061629,
+      "z": 0.1262224
+    },
+    "rotation": {
+      "w": 0.002140477,
+      "x": 0,
+      "y": 0.9999977,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "dining_room_table",
+    "position": {
+      "x": 1.03485,
+      "y": -0.0003557801,
+      "z": 2.372904
+    },
+    "rotation": {
+      "w": -6.719431e-06,
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": true,
+    "name": "4ft_shelf_metal",
+    "position": {
+      "x": -1.08601,
+      "y": 0.002534926,
+      "z": 3.175565
+    },
+    "rotation": {
+      "w": 0.7075425,
+      "x": 0,
+      "y": 0.7066708,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  {
+    "kinematic": false,
+    "name": "on_the_rocks_sofa",
+    "position": {
+      "x": -4.265108e-06,
+      "y": 0.004651487,
+      "z": -2.516999
+    },
+    "rotation": {
+      "w": 1,
+      "x": 0,
+      "y": -1.537715e-05,
+      "z": 0
+    },
+    "scale_factor": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  }
+]
