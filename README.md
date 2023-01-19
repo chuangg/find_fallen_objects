@@ -134,5 +134,9 @@ python baseline/planner/main_planner.py --displays :4 :5
 ```
 
 ### Evaluation
-You can evaluate the result (SR, SPL, SNA) by runing [script](https://github.com/sjtuyinjie/toolkit/blob/main/eval.py)
+You can evaluate the result (SR, SPL, SNA) by putting [script](https://github.com/sjtuyinjie/toolkit/blob/main/eval.py) into the env_log folder and run
+
+```sh
+python eval.py
+```
 
