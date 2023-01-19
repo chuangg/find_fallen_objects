@@ -139,4 +139,5 @@ You can evaluate the result (SR, SPL, SNA) by putting [script](https://github.co
 ```sh
 python eval.py
 ```
+you can replace "non_distractor" with "distractor" 
 
