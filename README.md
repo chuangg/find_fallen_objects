@@ -134,5 +134,5 @@ python baseline/planner/main_planner.py --displays :4 :5
 ```
 
 ### Evaluation
-YOu can evaluate the result (SR, SPL, SNA) by runing script
+YOu can evaluate the result (SR, SPL, SNA) by runing [script](https://github.com/sjtuyinjie/toolkit/blob/main/eval.py)
 
