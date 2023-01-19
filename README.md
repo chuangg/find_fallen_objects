@@ -132,3 +132,7 @@ You can download the pretrained modular models [here](https://github.com/chuangg
 conda activate planner
 python baseline/planner/main_planner.py --displays :4 :5
 ```
+
+### Evaluation
+YOu can evaluate the result (SR, SPL, SNA) by runing script
+
