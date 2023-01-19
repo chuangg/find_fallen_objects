@@ -27,6 +27,23 @@ If you need to run this environment in docker (suggested), you need also install
 
 After downloading TDW_Linux.tar.gz, extract it into the `docker` directory. The executable TDW should be located at `docker/TDW/TDW.x86_64`.
 
+tdw environment setup:
+```sh
+conda create -n tdw
+conda activate tdw
+pip install gym pyastar magnebot==1.3.2 tdw==1.8.29
+```
+
+
+planner environment setup:
+```sh
+conda create -n planner
+conda activate planner
+pip install librosa scikit-image pystar2d docker-compose tdw
+pip install 'git+https://github.com/facebookresearch/detectron2.git'
+cd env/openai_baselines
+pip install -e .
+```
 ### Launch the environment
 
 #### Launch inside docker
@@ -41,7 +58,8 @@ docker build docker -t fallen
 
 You can then launch the environment via
 ```sh
-docker run -v /<project root>/fallen_objects_dataset:/fallen_objects_dataset -v /<project root>/env_log:/env_log --network host --rm --runtime=nvidia fallen /venv/bin/python interface.py --display=<display> --split=<split> --port=<port>
+conda activate tdw
+python interface.py --display=<display> --split=<split> --port=<port>
 ```
 
 #### Validate
@@ -111,5 +129,6 @@ Run it with (replace `:4 :5` with your available X displays).
 You can download the pretrained modular models [here](https://github.com/chuangg/find_fallen_objects/releases/download/fallen_objects/pretrained.tar.gz) and place them in `<project root>/pretrained`.
 
 ```sh
+conda activate planner
 python baseline/planner/main_planner.py --displays :4 :5
 ```
