@@ -4,7 +4,7 @@ import numpy as np
 
 register(
     id='find_fallen-v0',
-    entry_point='env.find_fallen_docker:FindFallenDocker',
+    entry_point='env.find_fallen:FindFallen',
 )
 
 observation_space = gym.spaces.Dict({
