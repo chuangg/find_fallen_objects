@@ -23,7 +23,7 @@ $(0, 0, 1)$ is the facing direction of the agent.
 The environment is based on [TDW](https://github.com/threedworld-mit/tdw). We tested it on version 1.8.29, which you can download TDW_Linux.tar.gz from [here](https://github.com/threedworld-mit/tdw/releases/tag/v1.8.29).
 
 You should follow [this](https://github.com/threedworld-mit/tdw/blob/master/Documentation/lessons/setup/install.md#install-nvidia-and-x-on-your-server) to install NVIDIA and X on your linux server.
-If you need to run this environment in docker (suggested), you need also install `nvidia-docker` following [this](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker).
+If you need to run this environment in docker, you need also install `nvidia-docker` following [this](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker).
 
 After downloading TDW_Linux.tar.gz, extract it into the `docker` directory. The executable TDW should be located at `docker/TDW/TDW.x86_64`.
 
