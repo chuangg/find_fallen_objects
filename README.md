@@ -46,15 +46,9 @@ pip install -e .
 ```
 ### Launch the environment
 
-#### Launch inside docker
+#### Launch 
 
-It is suggested to use docker to launch the environment.
-You can build the image using the following command.
-Be sure you have installed `nvidia-docker` before building the image.
 
-```sh
-docker build docker -t fallen
-```
 
 You can then launch the environment via
 ```sh
