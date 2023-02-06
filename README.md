@@ -62,24 +62,7 @@ You can use the `docker/test.py` script to validate the installation for either 
 
 The environment will output some information in `env_log/` after each case.
 
-### Use in `gym`
 
-We provide a `gym` wrapper of our environment in `env` directory.
-It will launch the environment in a docker container,
-so be sure you can launch it inside docker before using this wrapper.
-You can create an enviroment like this
-
-```python
-import gym
-import env
-env = gym.make('find_fallen-v0', port=port, display=display, split=split, max_steps=max_steps, rank=rank, world_size=num_processes)
-obs, info = env.reset()
-obs, reward, done, info = env.step(5)
-```
-
-Notes: You should reset the environment after done for each case.
-
-Notes: If you run the python script without `sudo`, you need to ensure that you can also use `docker` commands without `sudo`. If you cannot, you can follow [this instruction](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user).
 
 `obs` contains following entries:
 + `rgb`, `depth`: the RGB or depth image captured by the agent in the current frame
