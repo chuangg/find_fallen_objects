@@ -6,7 +6,7 @@ Official implementation of CVPR 2022 paper "Finding Fallen Objects Via Asynchron
 
 ### Data
 
-Download the dataset from [here](https://github.com/chuangg/find_fallen_objects/releases/download/fallen_objects/fallen_objects_dataset.tar.gz), and extract it in the project root.
+Download the dataset from [here](https://tdw-transport-challenge-storage-bucket-au.s3.au-syd.cloud-object-storage.appdomain.cloud/fallen_objects_dataset.tar.gz), and extract it in the project root.
 
 The `dataset` sub-directory contains the necessary information of a case to be loaded into our environment.
 The `.wav` files within it are the recorded audio of object falling in each case.
