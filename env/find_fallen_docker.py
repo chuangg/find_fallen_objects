@@ -1,4 +1,4 @@
-import docker
+#import docker
 import docker.errors
 from gym.core import Env
 import os
@@ -8,7 +8,7 @@ import io
 import pickle
 import atexit 
 
-client = docker.from_env()
+#client = docker.from_env()
 class FindFallen(Env):
     def __init__(self, display=':4', split='train', port=2590, max_steps=200, rank=0, world_size=1):
         print(display, split, port, max_steps, rank, world_size)
