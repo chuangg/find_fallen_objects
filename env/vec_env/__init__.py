@@ -1,5 +1,4 @@
 from .vec_env import AlreadySteppingError, NotSteppingError, VecEnv, VecEnvWrapper, VecEnvObservationWrapper, CloudpickleWrapper
-import .logger
 from .dummy_vec_env import DummyVecEnv
 from .shmem_vec_env import ShmemVecEnv
 from .subproc_vec_env import SubprocVecEnv

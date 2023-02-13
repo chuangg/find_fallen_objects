@@ -4,12 +4,11 @@ import gym
 import numpy as np
 import torch
 from gym.spaces.box import Box
-
 from monitor import Monitor
 from .vec_env import VecEnvWrapper
 from .vec_env.dummy_vec_env import DummyVecEnv
-from .shmem_vec_env import ShmemVecEnv
-from .vec_normalize import VecNormalize as VecNormalize_
+from .vec_env import ShmemVecEnv
+from .vec_env import VecNormalize as VecNormalize_
 
 
 def make_env(env_id, rank, num_processes, log_dir, allow_early_resets, port, display, split, max_steps):
