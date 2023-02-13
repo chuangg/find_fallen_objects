@@ -5,11 +5,11 @@ import numpy as np
 import torch
 from gym.spaces.box import Box
 
-from baselines import bench
-from baselines.common.vec_env import VecEnvWrapper
-from baselines.common.vec_env.dummy_vec_env import DummyVecEnv
-from baselines.common.vec_env.shmem_vec_env import ShmemVecEnv
-from baselines.common.vec_env.vec_normalize import VecNormalize as VecNormalize_
+from monitor import Monitor
+from .vec_env import VecEnvWrapper
+from .vec_env.dummy_vec_env import DummyVecEnv
+from .shmem_vec_env import ShmemVecEnv
+from .vec_normalize import VecNormalize as VecNormalize_
 
 
 def make_env(env_id, rank, num_processes, log_dir, allow_early_resets, port, display, split, max_steps):
@@ -17,7 +17,7 @@ def make_env(env_id, rank, num_processes, log_dir, allow_early_resets, port, dis
         env = gym.make(env_id, port=port, display=display, split=split, max_steps=max_steps, rank=rank, world_size=num_processes)
      
         if log_dir is not None:
-            env = bench.Monitor(
+            env = Monitor(
                 env,
                 os.path.join(log_dir, str(rank)),
                 allow_early_resets=allow_early_resets)
