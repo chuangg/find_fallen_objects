@@ -4,7 +4,7 @@ import gym
 import numpy as np
 import torch
 from gym.spaces.box import Box
-from monitor import Monitor
+from .monitor import Monitor
 from .vec_env import VecEnvWrapper
 from .vec_env.dummy_vec_env import DummyVecEnv
 from .vec_env import ShmemVecEnv
