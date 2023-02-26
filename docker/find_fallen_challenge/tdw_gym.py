@@ -137,7 +137,7 @@ class TDW:
             self.first_seen_dis = self.distance
 
         info['scene_info'] = self.scene_info
-        obs['status'] = task_status == TaskStatus.success
+#         obs['status'] = task_status == TaskStatus.success
         info['status'] = task_status == TaskStatus.success
         info['finish'] = done
         if self.num_step >= self.max_step or self.tried_times >= self.allow_try:
