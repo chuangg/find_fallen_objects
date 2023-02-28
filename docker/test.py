@@ -23,8 +23,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as soc:
     send(soc, pickle.dumps({"op": "action_space"}))
     action_space = receive(soc)
     for i in range(1000):
-        print(i)
+       
         send(soc, pickle.dumps({"op": "step", "action": random.randint(1, 6)}))
         result = receive(soc)
-        print(result)
+        
         obs, reward, done, info = result
