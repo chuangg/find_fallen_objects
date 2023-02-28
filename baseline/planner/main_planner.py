@@ -64,7 +64,7 @@ def main():
             print(f'{i:01d}-{stage[i]:03d}: {infos[i]["scene_info"]}')
 
         obses = [{k: v[t] for k, v in obses.items()} for t in range(num_scenes)]
-        for j in trange(1000000):
+        for j in trange(3):
             actions = agents.step(obses)
 
             obses, rewards, dones, infos = envs.step(actions)

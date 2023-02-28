@@ -107,7 +107,7 @@ You can download the pretrained modular models [here](https://github.com/chuangg
 
 ```sh
 conda activate planner
-python baseline/planner/main_planner.py --displays :4 :5
+python baseline/planner/main_planner.py --displays :4 :5 --num-processes=1
 ```
 
 ### Evaluation
