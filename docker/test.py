@@ -22,7 +22,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as soc:
     observation_space = receive(soc)
     send(soc, pickle.dumps({"op": "action_space"}))
     action_space = receive(soc)
-    for i in range(1000):
+    for i in range(10):
        
         send(soc, pickle.dumps({"op": "step", "action": random.randint(1, 6)}))
         result = receive(soc)
