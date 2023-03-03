@@ -18,7 +18,7 @@ def receive(soc: socket.socket):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--hostname', type=str, default="localhost", help='Hostname to connect the interface')
-    parser.add_argument('--port', type=str, default=2590, help='Port number to connect the interface')
+    parser.add_argument('--port', type=int, default=2590, help='Port number to connect the interface')
     args = parser.parse_args()
 
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as soc:
