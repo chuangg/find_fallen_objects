@@ -39,7 +39,7 @@ planner environment setup:
 ```sh
 conda create -n planner
 conda activate planner
-pip install librosa scikit-image pystar2d docker-compose tdw
+pip install librosa scikit-image pystar2d docker-compose tdw==1.8.29
 pip install 'git+https://github.com/facebookresearch/detectron2.git'
 cd env/openai_baselines
 pip install -e .
