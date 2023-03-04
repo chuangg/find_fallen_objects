@@ -19,6 +19,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--hostname', type=str, default="localhost", help='Hostname to connect the interface')
     parser.add_argument('--port', type=int, default=2590, help='Port number to connect the interface')
+    parser.add_argument('--steps', type=int, default=100, help='Number of steps')
     args = parser.parse_args()
 
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as soc:
@@ -29,7 +30,7 @@ if __name__ == '__main__':
         observation_space = receive(soc)
         send(soc, pickle.dumps({"op": "action_space"}))
         action_space = receive(soc)
-        for i in range(10):
+        for i in range(args.steps):
 
             send(soc, pickle.dumps({"op": "step", "action": random.randint(1, 6)}))
             result = receive(soc)
